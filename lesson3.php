@@ -6,7 +6,7 @@ include './partials/nav.php';
 <div class="container">
     <div class="row">
         <div class="col-lg-12">
-            aergfasgdvzdfv
+            aergfzsdfzc
         </div>
     </div>
 </div>
